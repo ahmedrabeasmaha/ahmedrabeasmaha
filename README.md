@@ -1,6 +1,5 @@
 # - 👋 Hi, I’m [@ahmedrabeasmaha](github.com/ahmedrabeasmaha?tab=repositories)
 # - 👀 I’m interested in Software Engineering
-## - 🌱 I’m currently learning Data Structure, Algorithms and Problem Solving
 # - 💞️ I’m looking to collaborate on **In any charitable work**
 # - 📫 How to reach me [WhatsApp](wa.me/+201556631000)
 
