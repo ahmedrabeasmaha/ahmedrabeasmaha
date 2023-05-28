@@ -19,16 +19,16 @@
 <a href="https://linkedin.com/in/ahmedrabeasmaha" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Rabea%20Smaha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/+201556631000" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Rabea%20Smaha-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=JQuery&logoColor=0769AD)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=Jquery&logoColor=0769AD)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=7952B3)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=FFFFFF)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=1572B6)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=3776AB)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
