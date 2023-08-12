@@ -17,7 +17,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/ahmedrabeasmaha" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Rabea%20Smaha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201556631000" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Rabea%20Smaha-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://wa.me/+201070450343" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Rabea%20Smaha-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
